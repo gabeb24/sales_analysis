@@ -1,7 +1,7 @@
 # sales_analysis
-Sales Analysis Final Project using MySQL for Data Management 1
+Sales Analysis Final Project using SQL Server for Data Management @ Seattle University
 
-Analysis
+**Analysis**
 You will need to understand and analyze the data in the AdventureWorks2012DW database. (This is the data warehouse, not the database you have used for other efforts).
 
 Key points to remember:
